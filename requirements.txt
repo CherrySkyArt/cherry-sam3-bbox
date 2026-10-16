@@ -1,0 +1,10 @@
+decord==0.6.0
+einops
+ftfy
+regex
+iopath
+timm
+pycocotools
+huggingface_hub
+psutil
+tqdm
